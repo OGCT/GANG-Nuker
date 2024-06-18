@@ -32,6 +32,24 @@ Extraire le fichier
 Télécharger la dernière version (GANG-Nuker.zip) et extraire l'exécutable
 Lancer le programme et profitez-en !
 
+                                                                                                    Fait par Gang Nuker Reposter par Mehdi améliorer 
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                             $$\       $$$$$$$\  $$\   $$\ 
+                                                                                                             $$ |      $$  __$$\ $$ |  $$ |
+                                                                                                             $$ |      $$ |  $$ |$$ |  $$ |
+                                                                                                             $$ |      $$ |  $$ |$$$$$$$$ |
+                                                                                                             $$ |      $$ |  $$ |$$  __$$ |
+                                                                                                             $$ |      $$ |  $$ |$$ |  $$ |
+                                                                                                             $$$$$$$$\ $$$$$$$  |$$ |  $$ |
+                                                                                                             \________|\_______/ \__|  \__|
+                              
+                              
+                              
+
+
 
 
 
