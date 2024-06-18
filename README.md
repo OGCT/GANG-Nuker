@@ -27,7 +27,7 @@ REMARQUE : Assurez-vous d'avoir Python 3.9+ et qu'il est ajouté au PATH.
 
 Version compilée (plus facile mais plus buguée)
 
-Télécharger : https://github.com/TT-Tutorials/GANG-Nuker/releases
+Télécharger : https://github.com/OGCT/GANG-Nuker
 Extraire le fichier
 Télécharger la dernière version (GANG-Nuker.zip) et extraire l'exécutable
 Lancer le programme et profitez-en !
